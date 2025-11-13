@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 78956606-295e-4a67-b517-0b822d4400f2
   WEBAPP-NAME: eshoponweb-webapp56555983
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
